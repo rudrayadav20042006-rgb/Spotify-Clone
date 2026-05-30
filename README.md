@@ -1,48 +1,48 @@
 # 🎧 Spotify Clone
 
-A modern, responsive Spotify Web Player Clone built with React.js.  
-This project replicates the core UI/UX of the official :contentReference[oaicite:0]{index=0} and focuses on building reusable components, clean frontend architecture, and responsive design principles.
+A modern, responsive Spotify Web Player Clone built with React.js and Material-UI.  
+This project replicates the core UI/UX of the official Spotify web app and integrates the official Spotify Web API to showcase real-world frontend development and API handling for SDE portfolios.
 
 ---
 
 ## ✨ Overview
 
-This project is a frontend-only Spotify clone designed for learning and portfolio purposes.  
-It demonstrates how a real-world music streaming interface can be structured using React.
+This project is a dynamic frontend React application designed to interact with real Spotify data.  
+It demonstrates how a modern music streaming interface can be structured, styled, and connected to an external API.
 
 Key focus areas:
 - Component-based architecture
-- Responsive UI design
-- Clean folder structure
-- Scalable frontend setup
+- API integration and data handling
+- Responsive UI design using Material-UI
+- Clean frontend folder structure
 
 ---
 
 ## 🚀 Features
 
-- 🎵 Spotify-inspired modern UI
+- 🎵 Spotify-inspired modern UI built with Material-UI components
+- 🔌 Direct integration with the Spotify Web API
 - 📱 Fully responsive (mobile, tablet, desktop)
-- 🎧 Music player interface (UI only)
+- 🎧 Music player interface (UI structure)
 - 📂 Sidebar navigation (Home, Search, Library)
-- 🎨 Reusable and modular React components
-- ⚡ Fast development with Create React App
-- 🧭 Smooth layout transitions and clean UX
+- ⚡ Fast development setup with Create React App
 
 ---
 
 ## 🛠️ Tech Stack
 
-- React.js (Frontend library)
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+- **React.js (v16)** - Core frontend library
+- **Material-UI (MUI)** - UI component and icon library
+- **Spotify Web API JS** - Official wrapper for handling Spotify endpoints
+- **JavaScript (ES6+)** - Logic and API calls
+- **HTML5 & CSS3** - Markup and styling
 
 ---
 
 ## 📦 Getting Started
 
-Follow these steps to run the project locally:
+Follow these steps to run the project locally on your machine:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/spotify-clone.git
+git clone [https://github.com/your-username/spotify-clone.git](https://github.com/your-username/spotify-clone.git)
