@@ -1,0 +1,15 @@
+/* Removes default browser spacing and sets the dark Spotify vibe */
+body {
+  margin: 0;
+  background-color: black;
+  color: white;
+}
+
+/* This is the container holding both the Sidebar and the Body */
+.app__player {
+  display: flex; /* This is the magic word that puts them side-by-side! */
+  height: calc(100vh - 90px); /* Takes up the full screen height minus the footer */
+}
+
+/* We will add specific Sidebar, Body, and Footer styling later, 
+   but this locks the main structure in place. */
